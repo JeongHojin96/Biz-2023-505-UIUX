@@ -61,3 +61,20 @@ d# Semantic tag
     <article>Article</article>
 </section>
 ```
+
+- footer(꼬리말)
+- 회사의 주소, 전화번호, Email에 대한 정보를 표시하는 곳
+
+```html
+<!-- html4 -->
+<div id="address">서울특별시(/div)</div>
+<div id="email">
+  callor@callor.com
+  <div id="tel">
+    02-3333-5555``html
+
+    <!-- html5 -->
+    <>
+  </div>
+</div>
+```

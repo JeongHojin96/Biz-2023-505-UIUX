@@ -17,6 +17,14 @@
 - `<button>보여줄 내용</button>`
 - 기본적으로 마우스로 클릭했을때 작은 움직임을 보여준다.
 
+## 링크 만들기
+
+- html 은 기보적으로 `Hyper Text` 기능을 지원한다.
+- `Hyper Text` 란 특정한 단어를 클릭했을때 단어를 설명하는 다른 문서가 화면에 띄워지는 기능을 말한다.
+- `Hyper Text` 를 구현하는 tag 를 Anchor(a tag)라고 한다.
+- Anchor tag 도 inline tag 이다.\
+- Anchor tag 에는 `href` 속성이 있으며 해당 Anchor를 클릭했을때 보여질, 또는 이동할 `page 주소`를 명시 한다.
+
 ## box 만들기 tag
 
 - 화면에 text, 이미지 등 Content 를 보여주기 위한도구
