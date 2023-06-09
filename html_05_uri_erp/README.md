@@ -1,4 +1,4 @@
-# ERP(Enterprise Resouce Plan)
+# ERP(Enterprise Resource Plan)
 
 - 전사적(全社的) 자원관리(資原官理)
 - 회사 전체의 금액, 인력, 제품, 재료 등을 한눈에 파악할수 있도록 만들어진 전산관리 시스템
